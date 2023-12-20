@@ -1,0 +1,1 @@
+docker run --restart unless-stopped -d -p 3333:5000 rytisgit/rotate
